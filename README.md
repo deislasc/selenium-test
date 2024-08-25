@@ -3,14 +3,6 @@
 
 Este proyecto utiliza Selenium para automatizar el proceso de creación de tickets en el sistema de Helpdesk de Grupo Caabsa. El script realiza una serie de pasos para iniciar sesión, completar un formulario, enviar un ticket, y capturar capturas de pantalla de cada paso del proceso.
 
-## Tabla de Contenidos
-
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Ejecución del Script](#ejecución-del-script)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Requisitos Previos
 
